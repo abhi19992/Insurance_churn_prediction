@@ -1,2 +1,2 @@
 # Insurance_churn_prediction
-kNN-approach
+kNN-approach for machine hack insurance churn hackathon
